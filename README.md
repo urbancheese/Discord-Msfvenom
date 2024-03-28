@@ -15,7 +15,7 @@
 - Password Extraction: Extracts passwords from Edge and Chrome.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/urbancheese/your_repository.git`.
+1. Clone the repository: `git clone git clone https://github.com/urbancheese/Discord-Msfvenom.git`.
 2. Navigate to the repository directory: `cd Discord-Msfvenom`.
 3. Ensure Python is installed.
 4. Install dependencies: `pip install -r requirements.txt`.
