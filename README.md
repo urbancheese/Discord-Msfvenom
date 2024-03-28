@@ -15,10 +15,13 @@
 - Password Extraction: Extracts passwords from Edge and Chrome.
 
 ## Usage
-1. Ensure Python is installed.
-2. Install dependencies: `pip install -r requirements.txt`.
-3. Customize `config.json`.
-4. Run: `python malicious_script.py`.
+1. Clone the repository: `git clone https://github.com/urbancheese/your_repository.git`.
+2. Navigate to the repository directory: `cd Discord-Msfvenom`.
+3. Ensure Python is installed.
+4. Install dependencies: `pip install -r requirements.txt`.
+5. Customize `config.json`.
+6. Run: `python malicious_script.py`.
+
 
 ## Configuration
 - `config.json` parameters:
