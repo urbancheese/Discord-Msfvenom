@@ -1,0 +1,11 @@
+{
+    "LHOST": "YOUR_LOCAL_HOST",
+    "LPORT": "YOUR_LOCAL_PORT",
+    "PAYLOAD_PATH": "payload.exe",
+    "PAYLOAD_URL": "http://yourwebsite.com/payload.exe",
+    "WORD_DOC_PATH": "payload.doc",
+    "SERVER_CHANNEL_ID": "YOUR_DISCORD_SERVER_CHANNEL_ID",
+    "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+    "CHANNEL_ID": "YOUR_DISCORD_CHANNEL_ID"
+  }
+  
