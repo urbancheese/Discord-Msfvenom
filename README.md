@@ -1,7 +1,7 @@
 # Malicious Python Script
 
 ## Overview
-- Designed for malicious purposes, including various functionalities.
+- Designed for educational purposes, including various functionalities.
 - Intended for educational purposes only.
 
 ## Features
